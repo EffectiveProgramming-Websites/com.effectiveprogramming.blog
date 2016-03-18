@@ -1,0 +1,98 @@
+body {
+	background-color: $background-color;
+	color: $text-color;
+	font-family: 'Arvo', serif;
+	font-size: 14pt;
+	margin: auto;
+}
+
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, figure,
+%vertical-rhythm {
+    margin-bottom: $spacing-unit / 2;
+}
+
+div.outer {
+	background-color: #fff;
+	border: 1px solid #aaa;
+	border-bottom: 5px solid #888;
+	border-radius: 6px;
+	margin: 2em 3em;
+	padding: 1em 4em;
+}
+
+header.page {
+	padding: 1em 0 2em 0;
+	text-align: center;
+	.title {
+		font-size: 2em;
+		margin-bottom: 4px;
+		text-align: center;
+	}
+}
+
+a {
+	color: $theme-color;
+	text-decoration: none;
+}
+
+p a {
+	border-bottom: 1px dotted lighten($theme-color, 65%);
+}
+
+/* posts */
+
+ul.post-list,
+li.post {
+	list-style: none;	
+	margin: 0;
+	padding: 0;
+}
+
+ul.post-list {
+	li.post {
+		margin: 1em 0 4em 0;
+		div.meta {
+			color: lighten($theme-color, 55%);
+			font-size: .8em;
+			margin-bottom: 8px;
+			span.author {
+				font-style: oblique;
+			}
+		}
+		div.title {
+			font-family: $blog-title-font;
+			font-size: 1.5em;
+			font-weight: 400;
+		}
+		p.preview {
+			margin-top: 1em;
+		}
+	}
+}
+
+/* code */
+
+pre,
+code {
+    font-size: 15px;
+    border: 1px solid $grey-color-light;
+    border-radius: 3px;
+    background-color: #eef;
+}
+
+code {
+    padding: 1px 5px;
+}
+
+pre {
+    padding: 8px 12px;
+    overflow-x: scroll;
+
+    > code {
+        border: 0;
+        padding-right: 0;
+        padding-left: 0;
+    }
+}

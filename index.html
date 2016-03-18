@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<ul class="post-list">
+	{% for post in site.posts %}
+	<li class="post">
+		<div class="meta"><span class="date">{{ post.date | date: "%b %-d, %Y" }}</span> - <span class="author">{{ post.author }}</span></div>
+		<div class="title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
+		<p class="preview">{{ post.preview }} <a href="{{ post.url | prepend: site.baseurl }}">&nbsp;&raquo;&nbsp;</a></p>
+	</li>
+	{% endfor %}
+</ul>
+<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>

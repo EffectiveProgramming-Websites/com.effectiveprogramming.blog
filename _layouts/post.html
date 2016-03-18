@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<ul class="post-list">
+	<li class="post">
+		<div class="meta"><span class="date">{{ page.date | date: "%b %-d, %Y" }}</span> - <span class="author">{{ page.author }}</span></div>
+		<div class="title">{{ page.title }}</div>
+		<p class="preview">
+			{{ content }}
+		</p>
+	</li>
+</ul>

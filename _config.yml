@@ -1,0 +1,13 @@
+# Site settings
+brand: Effective Programming
+title: Blog
+subtitle: Where a kid can be a kid.
+description: > # this means to ignore newlines until "baseurl:"
+  Blog | Effective Programming
+baseurl: ""
+url: "http://blog.effectiveprogramming.com"
+twitter_username: effprog
+github_username:  EffectiveProgramming
+
+markdown: kramdown
+exclude: [go.sh]
