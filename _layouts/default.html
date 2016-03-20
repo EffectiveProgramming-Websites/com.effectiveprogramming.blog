@@ -2,16 +2,15 @@
 <html>
     {% include head.html %}
 <body>
-	<div class="outer">
-		<header class="page">
-			<div class="title"><a href="{{ site.baseurl }}/">{{ site.title }} | {{ site.brand }}</a></div>
-			<div class="subtext">{{ site.subtitle }}</div>
+	<div class="outer-wrapper">
+		<header class="site">
+			<h1 class="title"><a href="{{ site.baseurl }}/">{{ site.title }} | {{ site.brand }}</a></h1>
+			<p><a href="/about/">{{ site.subtitle }}</a></p>
 		</header>
 		<div class="page-content">
-			<div class="wrapper">
-				{{ content }}
-			</div>
+			{{ content }}
 		</div>
+		<p class="page-footer"><span class="feed"><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></span> | <span class="twitter"><a href="http://twitter.com/LutherBaker">twitter</a> | <span class="feedback"><a href="https://github.com/EffectiveProgrammingWebsites/com.effectiveprogramming.blog/issues">feedback</a></span></p>
 	</div>
 </body>
 </html>

@@ -1,14 +1,10 @@
 ---
 layout: default
 ---
-
-<ul class="post-list">
+<ul class="posts">
 	{% for post in site.posts %}
 	<li class="post">
-		<div class="meta"><span class="date">{{ post.date | date: "%b %-d, %Y" }}</span> - <span class="author">{{ post.author }}</span></div>
-		<div class="title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
-		<p class="preview">{{ post.preview }} <a class="more-link" href="{{ post.url | prepend: site.baseurl }}">&nbsp;&raquo;&nbsp;</a></p>
+		{% include post.html post=post more="YES" %}
 	</li>
 	{% endfor %}
 </ul>
-<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>

@@ -1,13 +1,5 @@
 ---
 layout: default
 ---
-
-<ul class="post-list">
-	<li class="post">
-		<div class="meta"><span class="date">{{ page.date | date: "%b %-d, %Y" }}</span> - <span class="author">{{ page.author }}</span></div>
-		<div class="title">{{ page.title }}</div>
-		<p class="preview">
-			{{ content }}
-		</p>
-	</li>
-</ul>
+{% include post.html post=page content="YES" %}
+<p class="feedback">What do you think about the idea? What would you change? Are you going to beat me to it? Give me some <a href="https://github.com/FuzzyBearingsWebsites/com.fuzzybearings.blog/issues">feedback</a> if you have a chance!</p>

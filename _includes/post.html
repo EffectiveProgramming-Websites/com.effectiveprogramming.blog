@@ -1,0 +1,7 @@
+{% assign p=include.post %}<div class="post">
+	<p class="meta"><span class="date">{{ p.date | date: "%b %-d, %Y" }}</span> - <span class="author">{{ p.author }}</span></p>
+	{% if include.more %}<h1 class="title"><a href="{{ post.url | prepend: site.baseurl }}">{{ p.title }}</a></h1>{% else %}<h1 class="title">{{ p.title }}</h1>{% endif %}
+	<blockquote class="pitch">{{ p.pitch }}{% if include.more %}&nbsp;<a class="more-link" href="{{ p.url | prepend: site.baseurl }}">&nbsp;&raquo;&nbsp;</a>{% endif %}</blockquote>
+	{% if include.content %}
+	<div class="content">{{ content }}</div>
+	{% endif %}</div>
