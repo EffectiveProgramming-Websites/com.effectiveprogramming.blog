@@ -17,9 +17,9 @@ For clarity, let's define the term [test](https://dictionary.cambridge.org/us/di
 
 > an act of using something to find out if it is working correctly or how effective it is
 
-So clearly, the hypothetical developer personified in this example is "using something (the application) to find out if it (code changes) is working correctly." But, is this developer practicing _Test Driven Development?_ Well, the answer to that question certainly depends on who you are talking to and the context of the conversation but in the case of this post, yes, it does. The developer is constantly changing code and clearly, _testing_ to see if those changes have the desired result. In addition, the developer is clearly relying on the outcomes of those _tests_ to drive their work. Test. Driven. Development.
+So clearly, the hypothetical developer personified in this example is "using something (the application) to find out if it (code changes) is working correctly." But, is this developer practicing _Test Driven Development?_ Well, the answer to that question depends on who you are talking to and the context of the conversation but in the case of this post, yes, it does. The developer is constantly changing code and _testing_ to see if those changes have the desired result. In addition, the developer is relying on the outcomes of those _tests_ to drive their work. Test. Driven. Development.
 
-In this manner of speaking then, I suspect that most every developer practices (or has practiced) development in the manner described here. That means you! This is an important realization as it lays the groundwork on which we can build.  Read on if you want to take this new found understanding to the next level.
+In this manner of speaking then, I suspect that most every developer practices (or has practiced) _Test Driven Development_ as described in the manner herein. That likely means you are, in fact, practicing Test Driven Development, whether you know it or not! This is an important realization as it lays the groundwork for which to improve.
 
 ## Can We Do Better?
 
