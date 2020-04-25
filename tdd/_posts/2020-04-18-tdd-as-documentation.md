@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TDD, Naturally
-teaser: Test Driven Development is a documentation exercise
+subtitle: Test Driven Development is a documentation exercise
 author: LB
 ---
 
