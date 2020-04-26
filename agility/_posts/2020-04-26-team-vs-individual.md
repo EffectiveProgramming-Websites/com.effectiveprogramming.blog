@@ -13,16 +13,16 @@ Truth be told I'm a big fan of Allen - I follow him because his tweets often res
 
 > No individual can produce the quality of a good team that collaborates well.
 
-Seems like a safe statement - I don't think anyone can argue with it directly. It seems truthy. In fact, for the sake of argument, let's assume that this statement is irrefutably true. Then where is my concern? My concern in the reality for me that _this_ is never the question. Not quite the same but for dramatic effect, I might also posit:
+Seems like a safe statement - I don't think anyone can argue with it directly. It seems truthy. In fact, for the sake of argument, let's assume that this statement is irrefutably true. Then where is my concern? My concern in the reality for me that this is never the question. Not quite the same but for dramatic effect, I might also posit:
 
-> $100 is always less then $500
+> $100 buys less then $500
 
-The tradeoff that Allen identifies has never been the tradeoff I've seen made. The tradeoff that I am used to reads more like
+Furthermore, I've never seen anyone intentionally set out to hire a "brilliant sociopath." Now, just because I've not seen it doesn't mean it doesn't exist so it is quite possible this tweet hits a home run with those folks. But for what it is worth, the (related?) day-to-day concern I am a bit more familiar with might be:
 
-> Given I can pay 5 people, what is the team arrangement to minimizes opportunity costs and maximizes revenue?
+> Given I can pay 5 people, what is the ideal staffing arrangement that minimizes opportunity costs and maximizes revenue?
 
 Or possibly:
 
 > What can we achieve with 1 person? 2 people? 3 people? and what opportunity costs and revenue can I realize with said person/people?
 
-Yes, no individual can produce the quality of a good team but what is the financial sweet spot around number of people, number of teams, number of projects and distribution of work? And mind you, I don't have an answer to this question - I just feel bad that truthy, distantly related statements thrown about casually for effect often confuse more then the clarify.
+Yes, no individual can produce the quality of a good team but what is the financial sweet spot around number of people, number of teams, number of projects and distribution of work? And mind you, I don't have an answer to this question - I just thought it worth clarifying the general case the original tweet likely doesn't apply to.
