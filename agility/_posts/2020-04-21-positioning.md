@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Agility is a Positioning Exercise
+title: Agile is a Positioning Exercise
 subtitle: Agility is not a Methodology
 author: LB
 ---
@@ -17,7 +17,7 @@ That might be tempting to believe but of course not:
 
 > Agility or nimbleness is the ability to change the body's position efficiently, and requires the integration of isolated movement skills using a combination of balance, coordination, speed, reflexes, strength and endurance. --[Wikipedia](https://en.wikipedia.org/wiki/Agility)
 
-Ok - so let's bring this back to Software development. Does the proposed definition apply, as is, to software development? Can you see your own team using this definition as the clarifying North Star? What does it mean to "the ability to change ... position efficiently" and more importantly, can it be as simple as that? Really? Well, I think of it like this. Take a look at your team's practices and consider what you might change in the name of this _positioning_ objective.
+Ok - so let's bring this back to Software development. Does the proposed definition apply, as is, to software development? Can you see your own team using this definition as the clarifying North Star? What does it mean to "the ability to change &hellip; position efficiently" and more importantly, can it be as simple as that? Really? Well, I think of it like this. Take a look at your team's practices and consider what you might change in the name of this _positioning_ objective.
 
 Does the quality of your codebase contribute or detract from this objective? If your team had to shift gears, add new functionality or address problems with a dependency, how efficiently could they handle that work, and in how many different situations could they handle this quickly and effectively? What could your team do to improve this situation? What if you had to change some logic - how confident are you that your changes will or won't affect other sections of code? How efficiently could you prove that? How long does it take to regression test your entire application. How often do you regression test the entire application? Could you automate that? How expensive is it to have confidence in your codebase? Do you have any silos of information on the team? Have you experienced turnover such that problems repeatedly pop up that require deep discovery about the services involved &hellip; before a relatively simplistic fix could be applied?
 
