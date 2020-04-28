@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Team vs Individual
-subtitle: Mostly likely, the wrong comparison
+subtitle: Most likely, the wrong comparison
 author: LB
 ---
 
