@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-The main idea behind this blog is to discuss the _how_ of things I organize on [www](http://www.effectiveprogramming.com/).
+Most of my posts here are shorter takes on agile concepts as I see them applied and misapplied in real life. Lots of experiements. Lots of opinions. Lots of subjectiviy. Lots of failure. I don't pretend to know the answers but evenstill, I'd like to start logging my ideas. Once I develop some momentum you may find some longer posts here - or possibly a series of posts. That's the idea at least. We'll see if I can keep it up.
 
-Unfortunately, I do not have a way to comment on posts - so if you have any thoughts, questions, or suggestions, please submit them to [issues](https://github.com/EffectiveProgrammingWebsites/com.effectiveprogramming.blog/issues).
+I do appreciate insights and suggestions so please, do feel free to post your valuable thoughts, questions, or suggestions via my [issues](https://github.com/EffectiveProgrammingWebsites/com.effectiveprogramming.blog/issues) tracker.
 
 Many thanks to [github](https://pages.github.com/) for hosting these pages.
