@@ -5,9 +5,7 @@ subtitle: Are we answering the real question?
 author: LB
 ---
 
-Came across Matt Philip's writeup on [applying noestimates](https://mattphilip.wordpress.com/2020/05/11/noestimates-applied/) and had a bit of a _devil's advocate_ knee jerk reaction - probably tangential to Matt's point but nevertheless interesting.
-
-My thought revolves around the idea that when a business asks for an estimate, I don't think they're always asking the obvious question. Specifically, I imagine some businesses are not, in fact, asking for a fixed bid. Instead, I think it is possible some folks are just looking to see if you've got the commitment, support and depth, if necessary, to "get it done" within the estimated time. Managing risk and forecasting are certainly methods to research the problem but if this underlying question is:
+What does it mean when a client asks for an estimate? I don't think they're always asking the obvious question. Specifically, I imagine some businesses are not, in fact, asking for a fixed bid. Instead, I think it is possible some folks are just looking to see if you've got the commitment, support and depth, if necessary, to "get it done" within the estimated time. Managing risk and forecasting are certainly methods to research the problem but if this underlying question is:
 
 > How will you convince me that I should choose your team for the contract?
 
