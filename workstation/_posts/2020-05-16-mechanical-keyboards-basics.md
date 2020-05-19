@@ -21,4 +21,4 @@ A less obvious distinction is the casing. You might think that metal is naturall
 
 One of the more obvious distinctions has to do with the keyboard size and number of keys. Full-size keyboards typically have 4 sections: function keys, QWERTY keys, arrow and auxilliary keys, and then a number keypad. TKL (Tenkeyless) keyboards are similar to full size keyboards but do not include a number keypad section. This results in a width of about 80% of a full size keyboard. Mini keyboards shrink down even further and do so on 2 dimensions - dropping both the aux/arrow key and function key sections. This results in an overall size reduction of 60% that of a full size keyboard.
 
-If this all makes sense to you, checkout my [followup article]({% post_url /workstation/2020-05-16-mechanical-keyboards-favorites %}) where I discuss my actual favorites!
+If this all makes sense to you, checkout my [followup article]({% post_url /workstation/2020-05-16-mechanical-keyboards-favorites %}) where I discuss my favorites!

@@ -45,7 +45,3 @@ After much experimentation then, I think I've landed on the following top consid
 - I do not like ringing, rattle or other "incidental" noise.
 - As much as I like the Topre's for everyday work, I'd miss the Kailh Box Browns more. If I could only buy one keyboard, I'd buy the Anne Pro 2 again. I miss it if I don't get to use that keyboard everyday.
 - Finally, I have come to believe that PBT double-shot keycaps make a difference. I think their natural texture has a positive pyschological affect on me and it turns out my top picks (Leopold, Anne Pro2 and Varmilo) all came stock with PBT keycaps.
-
-### Reference
-
-- [Leopold FC660C: better stock Topre experience than the HHKB](https://www.youtube.com/watch?v=r07wzuVU5Jo)
