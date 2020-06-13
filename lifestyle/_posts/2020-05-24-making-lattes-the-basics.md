@@ -1,15 +1,14 @@
 ---
 layout: post
-title: Latte Making Basics
+title: Making Lattes - The Basics
 subtitle: The perfect precursor to a purchase
 ---
 
-A latte consists of a shot of espresso and steamed milk. Let's review some basics:
+A latte consists of a shot of espresso and steamed milk. While steaming milk is a topic until itself, the process around making espresso can be considered from 3 aspects:
 
 - the beans
 - the grind
 - the shot
-- the milk
 
 ### The Beans
 
@@ -55,12 +54,6 @@ Some higher end machines allow you to steam milk while simultaneously pulling a 
 
 ### Conclusion
 
-Now that we've gotten through some of the basics, be sure to check back for any follow-up articles! My hope is to dive a bit deeper into a few of these aspects and discuss some of the daily decision points we will all face along the way.
+Now that we've gotten through some of the basics, get ready for some adventures in coffee land!
 
-### Continued Reading
-
-- [Degassing Coffee; Yes, Coffee Can Be ‘Too Fresh’](https://www.homegrounds.co/degassing-coffee/)
-- [Why Does Coffee Degas & What Does It Mean For Brewers & Roasters?](https://perfectdailygrind.com/2019/01/why-does-coffee-degas-what-does-it-mean-for-brewers-roasters/)
-- [Understanding Degassing: Is Fresh Best?](https://fellowproducts.com/blogs/learn/understanding-degassing-is-fresh-best)
-
-Oh, and, one more thing &hellip; there is no `x` in espresso.
+Oh, and, one more thing &hellip; there is no `x` in espresso :-)
